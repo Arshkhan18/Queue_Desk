@@ -1,0 +1,4 @@
+BUG|Login page crashes|Application crashes after login|Rahul|CRITICAL|OPEN
+FEATURE|Add dark mode|Provide a dark theme|Priya|MEDIUM|OPEN
+ACCESS|Database access|Request read-only access|Aman|HIGH|IN_PROGRESS
+BUG|Slow application|Application responds slowly|Neha|HIGH|OPEN

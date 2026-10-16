@@ -1,0 +1,17 @@
+com\example\io\TicketFileLoader.class
+com\example\exception\InvalidTicketDataException.class
+com\example\model\Priority.class
+com\example\repository\Repository.class
+com\example\model\FeatureRequestTicket.class
+com\example\capability\Escalatable.class
+com\example\util\TicketComparators.class
+com\example\exception\TicketNotFoundException.class
+com\example\model\BugTicket.class
+com\example\model\BugTicket$1.class
+com\example\report\ReportGenerator.class
+com\example\model\Severity.class
+com\example\App.class
+com\example\model\Ticket.class
+com\example\util\TicketUtils.class
+com\example\model\AccessRequestTicket.class
+com\example\model\Status.class

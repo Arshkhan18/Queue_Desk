@@ -1,0 +1,16 @@
+c:\Users\user\QueueDesk\demo\src\main\java\com\example\capability\Escalatable.java
+c:\Users\user\QueueDesk\demo\src\main\java\com\example\model\AccessRequestTicket.java
+c:\Users\user\QueueDesk\demo\src\main\java\com\example\model\Ticket.java
+c:\Users\user\QueueDesk\demo\src\main\java\com\example\util\TicketComparators.java
+c:\Users\user\QueueDesk\demo\src\main\java\com\example\model\Severity.java
+c:\Users\user\QueueDesk\demo\src\main\java\com\example\repository\Repository.java
+c:\Users\user\QueueDesk\demo\src\main\java\com\example\exception\InvalidTicketDataException.java
+c:\Users\user\QueueDesk\demo\src\main\java\com\example\model\BugTicket.java
+c:\Users\user\QueueDesk\demo\src\main\java\com\example\model\FeatureRequestTicket.java
+c:\Users\user\QueueDesk\demo\src\main\java\com\example\util\TicketUtils.java
+c:\Users\user\QueueDesk\demo\src\main\java\com\example\App.java
+c:\Users\user\QueueDesk\demo\src\main\java\com\example\model\Priority.java
+c:\Users\user\QueueDesk\demo\src\main\java\com\example\model\Status.java
+c:\Users\user\QueueDesk\demo\src\main\java\com\example\io\TicketFileLoader.java
+c:\Users\user\QueueDesk\demo\src\main\java\com\example\exception\TicketNotFoundException.java
+c:\Users\user\QueueDesk\demo\src\main\java\com\example\report\ReportGenerator.java
